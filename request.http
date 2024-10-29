@@ -1,0 +1,12 @@
+### Yêu cầu GET
+GET http://localhost:3055
+Accept: application/json
+
+### Yêu cầu POST
+# POST http://localhost:3000/api/data
+# Content-Type: application/json
+
+# {
+#   "name": "Alice",
+#   "age": 30
+# }
